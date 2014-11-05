@@ -1,0 +1,14 @@
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.dll
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.pdb
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.dll
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.pdb
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.csprojResolveAssemblyReference.cache
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.csprojResolveAssemblyReference.cache
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\bin\Debug\ACCESODATOS.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\ACCESODATOS\obj\Debug\ACCESODATOS.pdb

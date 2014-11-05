@@ -1,0 +1,177 @@
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\DEMO.dll.config
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\DEMO.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\DEMO.pdb
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Antlr3.Runtime.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\EntityFramework.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\EntityFramework.SqlServer.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Web.Infrastructure.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Newtonsoft.Json.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Owin.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Helpers.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Mvc.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Optimization.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Razor.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.Deployment.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.Razor.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\WebGrease.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Helpers.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Mvc.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Optimization.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.Razor.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.Deployment.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\System.Web.WebPages.Razor.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Newtonsoft.Json.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Antlr3.Runtime.pdb
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\EntityFramework.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\EntityFramework.SqlServer.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\obj\Debug\DEMO.csprojResolveAssemblyReference.cache
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\obj\Debug\DEMO.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\obj\Debug\DEMO.pdb
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\CAPANEGOCIO.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\ACCESODATOS.dll
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\CAPANEGOCIO.pdb
+c:\users\criteria it\documents\visual studio 2013\Projects\DEMO\DEMO\bin\ACCESODATOS.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.dll.config
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Antlr3.Runtime.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\CAPANEGOCIO.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.SqlServer.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Newtonsoft.Json.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Owin.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Helpers.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Mvc.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Optimization.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Razor.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Razor.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\WebGrease.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\ACCESODATOS.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\CAPANEGOCIO.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Helpers.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Mvc.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Optimization.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Razor.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Razor.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Newtonsoft.Json.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Antlr3.Runtime.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.SqlServer.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\ACCESODATOS.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.csprojResolveAssemblyReference.cache
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.dll.config
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\DEMO.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Antlr3.Runtime.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\CAPANEGOCIO.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.SqlServer.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Newtonsoft.Json.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Owin.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Helpers.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Mvc.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Optimization.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Razor.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Razor.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\WebGrease.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\ACCESODATOS.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\CAPANEGOCIO.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Helpers.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Mvc.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Optimization.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.Razor.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\System.Web.WebPages.Razor.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Newtonsoft.Json.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Antlr3.Runtime.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\EntityFramework.SqlServer.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\bin\ACCESODATOS.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\DEMO\obj\Debug\DEMO.pdb

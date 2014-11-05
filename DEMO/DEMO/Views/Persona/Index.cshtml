@@ -1,0 +1,70 @@
+﻿@model IEnumerable<DEMO.Models.PERSONA>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Personas</h2>
+
+<p>
+  
+    @Html.ActionLink("Registrar Persona", "Creando")
+
+</p>
+<table class="table">
+    <tr>
+           
+
+        <th>
+            @Html.DisplayNameFor(model => model.NOMBRES)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.APELLIDOS)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FECHA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Departamento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Provincia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Distrito)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+    
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBRES)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.APELLIDOS)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FECHA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Departamento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Provincia)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Distrito)
+        </td>
+        <td>
+          
+            @Html.ActionLink("Edit", "BuscarPersona", new { id = item.ID }) |
+                      
+            @Html.ActionLink("Details", "Detalle", new { id = item.ID }) |
+            @Html.ActionLink("Delete", "Eliminar", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

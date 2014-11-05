@@ -1,0 +1,21 @@
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.dll
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.pdb
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.dll
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.pdb
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csprojResolveAssemblyReference.cache
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.dll
+c:\Users\criteria it\documents\visual studio 2013\Projects\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.pdb
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.dll
+C:\Users\Criteria IT\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\CAPANEGOCIO.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\bin\Debug\ACCESODATOS.pdb
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.csprojResolveAssemblyReference.cache
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.dll
+C:\Users\Junior\Desktop\MVC FULL_PRACTICA\DEMO\CAPANEGOCIO\obj\Debug\CAPANEGOCIO.pdb
