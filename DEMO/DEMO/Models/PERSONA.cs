@@ -32,5 +32,6 @@ namespace DEMO.Models
         public string Provincia { get; set; }
         public string Distrito { get; set; }
 
+
     }
 }
